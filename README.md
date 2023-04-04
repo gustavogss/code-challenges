@@ -3,8 +3,8 @@
 ## LINGUAGENS DE PROGRAMAÇÃO :robot:
 
 ### JavaScript
-- 1. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
-- 2. [Compare The Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
-- 3. 
+- [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
+- [Compare The Triples](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+- [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
 
 
